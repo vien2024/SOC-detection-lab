@@ -62,7 +62,7 @@ A multi-zone virtual network security environment demonstrating perimeter securi
 
 For step-by-step installation walkthroughs, detailed firewall rule tables, Suricata configuration settings, and raw Nikto scan logs, see the full guide:
 
-📄 **[View Full Lab Documentation (LAB_DOCUMENTATION.md)](./LAB_DOCUMENTATION.md)**
+📄 **[View Full Lab Documentation (LAB_DOCUMENTATION.md)](./network_security_dmz_lab_documentation.md)**
 
 ---
 
